@@ -8,7 +8,7 @@ I am an aspiring frontend developer skilled in **HTML**, **CSS**, and **JavaScri
 I enjoy building responsive, user-friendly websites and am seeking **remote/part-time internship opportunities** to grow my skills.
 
 ## Live Demo
-
+ https://akshayareddy-30.github.io/Portfolio/
 
 ## Projects
 - **Health Dashboard Website**  
